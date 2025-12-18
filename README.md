@@ -120,6 +120,9 @@ https://youtu.be/n0WRQf11Pzo
 
 Έλεγχος υγρασίας κομπόστ- Απόφαση: προσθέτουμε ξερά φύλλα ή νερό.
 
+<img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/5ea99413-b283-4bbd-8101-7476810ad290" />
+
+
 https://drive.google.com/file/d/149SsWjhWRmt8nO3Q82pxqNARyz1NR09V/view?usp=sharing
 
 https://youtu.be/n0WRQf11Pzo
@@ -187,4 +190,6 @@ https://youtu.be/n0WRQf11Pzo
 Δημιουργούν απλούς κώδικες για το Photon, προγραμματίζοντας κινήσεις και ενέργειες στα φυτά, τον κομποστοποιητή και τους σταθμούς δραστηριοτήτων.
 
 Αναπτύσσουν αλγοριθμική σκέψη μέσω της παρατήρησης αποτελεσμάτων και της επανάληψης εντολών, συνδέοντας τον προγραμματισμό με πραγματικές δράσεις στο περιβάλλον.
+
+https://drive.google.com/file/d/1vcfdsV0vvmLsywYfRG1wyg94N0dFdogr/view?usp=sharing
 
