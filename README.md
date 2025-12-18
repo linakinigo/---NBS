@@ -4,7 +4,7 @@
 Το έργο φέρνει τα νήπια σε επαφή με τη φύση μέσω του ρομπότ Photon<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9800ae09-2d8e-4a46-822b-4d5839d1dbac" />
  , καθώς τα "ξεναγεί" στον σχολικό κήπο, στον κομποστοποιητή, στο ξενοδοχείο ζουζουνιών και σε άλλες Λύσεις Βασισμένες στη Φύση που υιοθετήθηκαν στην σχολική αυλή στα πλαίσια του
  
- eTwinning προγράμματος "Green Hands, Cool Schools_Nature-Based Adventures for Kids_2025-2026" <img width="907" height="1083" alt="image" src="https://github.com/user-attachments/assets/0f25980f-31d7-4cbf-9988-cb2b106078ae" />
+ eTwinning προγράμματος "Green Hands, Cool Schools_Nature-Based Adventures for Kids_2025-2026" 
 
  
  και του Σχεδίου Δράσης 2025-2026 "Δημιουργώ τον Σχολικό μου κήπο".
