@@ -118,9 +118,9 @@ https://youtu.be/n0WRQf11Pzo
 
 Στάση 2: Κομποστοποιητής- Συζήτηση: τι ρίχνουμε / τι όχι
 
-Έλεγχος υγρασίας κομπόστ- Απόφαση: προσθέτουμε ξερά φύλλα ή νερό.
-
 <img width="840" height="840" alt="image" src="https://github.com/user-attachments/assets/5ea99413-b283-4bbd-8101-7476810ad290" />
+
+Έλεγχος υγρασίας κομπόστ- Απόφαση: προσθέτουμε ξερά φύλλα ή νερό.
 
 
 https://drive.google.com/file/d/149SsWjhWRmt8nO3Q82pxqNARyz1NR09V/view?usp=sharing
@@ -133,14 +133,22 @@ https://youtu.be/n0WRQf11Pzo
 Παρατήρηση και συζήτηση για τη βιοποικιλότητα.
 
 
+<img width="721" height="720" alt="image" src="https://github.com/user-attachments/assets/594daaf0-7885-4e70-847f-c4f67477364d" />
+
+
 Στάση 4: Συλλογή όμβριων υδάτων
 
 Πώς μαζεύουμε και χρησιμοποιούμε το νερό της βροχής.
+
+<img width="812" height="812" alt="image" src="https://github.com/user-attachments/assets/ef8c471c-1d77-44d1-acf6-0072b5a595b0" />
 
 
 Στάση 5: Ταΐστρες πουλιών
 
 Παρατήρηση και φροντίδα.
+
+<img width="1000" height="1000" alt="qrcode_290227349_df878e641c28619d3d8e2e021cfc1fcd" src="https://github.com/user-attachments/assets/02e5b44f-120e-400c-a3db-09e65d3e32b4" />
+
 
 
 Στάση 6: Τοίχος ευχών
