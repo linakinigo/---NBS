@@ -140,8 +140,13 @@ https://drive.google.com/file/d/1KJiuzm9PGu83cBRQYFY-Gmve-Cb7Tqpe/view?usp=shari
 
 Ο Photon παρουσιάζεται ως «ξεναγός της αυλής». Τα παιδιά συζητούν τι γνωρίζουν για την αυλή, τα φυτά, τις Λύσεις Βασισμένες στην Φύση που δημιούργησαν και τι θα ήθελαν ακόμη να μάθουν.
 
+https://learningapps.org/watch?v=pa43ma30j25
+
+
 
 Φάση 2 – Ξενάγηση στην αυλή
+
+https://drive.google.com/file/d/1-Vo-5-THJSPGxoKYjP-N8PqVyRfgcGUb/view?usp=sharing
 
 
 Στάση 1: Κήπος-Φυτά όνομα, ιδιότητες, ανάγκες.
