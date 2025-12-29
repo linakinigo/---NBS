@@ -209,7 +209,8 @@ https://youtu.be/n0WRQf11Pzo
 «Σσσς… εδώ μένουν μικροί φίλοι!
 Τα ζουζούνια βοηθούν τα φυτά να μεγαλώνουν.
 Γιατί νομίζετε ότι τους αρέσει αυτό το σπιτάκι;»
-
+ 
+ QR code(θα ενεργοποιηθεί αργότερα για σκανάρισμα)
 
 <img width="721" height="720" alt="image" src="https://github.com/user-attachments/assets/594daaf0-7885-4e70-847f-c4f67477364d" />
 
@@ -225,6 +226,9 @@ https://youtu.be/n0WRQf11Pzo
 
 🌧Πώς μαζεύουμε και χρησιμοποιούμε το νερό της βροχής.
 
+ 
+ QR code(θα ενεργοποιηθεί αργότερα για σκανάρισμα)
+
 <img width="812" height="812" alt="image" src="https://github.com/user-attachments/assets/ef8c471c-1d77-44d1-acf6-0072b5a595b0" />
 
 
@@ -238,6 +242,9 @@ https://youtu.be/n0WRQf11Pzo
 
 
 🦜Παρατήρηση και φροντίδα.
+
+ 
+ QR code(θα ενεργοποιηθεί αργότερα για σκανάρισμα)
 
 <img width="1000" height="1000" alt="qrcode_290227349_df878e641c28619d3d8e2e021cfc1fcd" src="https://github.com/user-attachments/assets/02e5b44f-120e-400c-a3db-09e65d3e32b4" />
 
