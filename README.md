@@ -314,3 +314,12 @@ https://learningapps.org/watch?v=pa43ma30j25
 
 https://drive.google.com/file/d/1vcfdsV0vvmLsywYfRG1wyg94N0dFdogr/view?usp=sharing
 
+Το εκπαιδευτικό υλικό του έργου  
+«Ο Photon Ξεναγός στη Ζωντανή Αυλή»  
+διατίθεται με άδεια Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0)
+
+Μπορεί να χρησιμοποιηθεί, να τροποποιηθεί και να διανεμηθεί ελεύθερα,
+με την προϋπόθεση αναφοράς του δημιουργού και διάθεσης με την ίδια άδεια.
+
+© 2026 Καλλιόπη Κυνηγοπούλου – 32ο Νηπιαγωγείο Θεσσαλονίκης
+
